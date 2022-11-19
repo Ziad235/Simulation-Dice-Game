@@ -1,4 +1,4 @@
-# BlackJack_Dice_Game
+# Simulation_Dice_Game
 
 ### How the game is played:
 Two players alternately roll dice, and keep track of their total across turns.   
